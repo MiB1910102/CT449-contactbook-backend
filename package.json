@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thuan3105/CT449-contactbook-backend.git"
+    "url": "git+https://github.com/MiB1910102/CT449-contactbook-backend.git"
   },
-  "author": "ThuanB1910304",
+  "author": "MiB1910102",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/thuan3105/CT449-contactbook-backend/issues"
+    "url": "https://github.com/MiB1910102/CT449-contactbook-backend.git/issues"
   },
-  "homepage": "https://github.com/thuan3105/CT449-contactbook-backend#readme",
+  "homepage": "https://github.com/MiB1910102/CT449-contactbook-backend.git#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.18.2",
